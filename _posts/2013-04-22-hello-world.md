@@ -8,7 +8,7 @@ tags: [random, jekyll]
 
 Hello World! This is the beginning of this theme.
 
-Thử nghiệm toán học $\dfracP{1}{2}$
+Thử nghiệm toán học $\dfrac{1}{2}$
 
 $$
 \begin{align}
