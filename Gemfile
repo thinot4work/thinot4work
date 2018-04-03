@@ -1,8 +1,16 @@
 source "https://rubygems.org"
+gemspec
 
-gem "jekyll", "~> 3.2.1"
-gem "jekyll-sitemap"
-gem "jekyll-gist"
-gem 'jekyll-mentions'
-gem 'jekyll-feed'
-gem 'jekyll-paginate'
+# If you've just forked the repo,
+# please remove the content above and uncomment the following before bundling.
+#
+# source "https://rubygems.org"
+
+# gem 'jekyll', '= 3.7.2' # locked in to be consistent GitHub Pages.
+
+# group :jekyll_plugins do
+#   gem 'jekyll-feed'
+#   gem 'jekyll-redirect-from'
+#   gem 'jekyll-seo-tag'
+#   gem 'jekyll-sitemap'
+# end
